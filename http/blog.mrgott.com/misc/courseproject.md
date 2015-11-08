@@ -1,0 +1,1 @@
+http://blog.mrgott.com/misc/7-create-markdown-file-and-push-it-to-github-for-the-data-scientist-s-toolbox-project-at-coursera
